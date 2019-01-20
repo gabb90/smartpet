@@ -1,0 +1,10 @@
+
+.title {
+  margin: 80px auto;
+  width: 60%;
+  padding: 15px;
+  color: white;
+  background-color: var(--colorPrimario);
+  text-align: center;
+  font-size: 25px;
+}
